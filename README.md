@@ -72,3 +72,5 @@ Run data is stored in `data/YYYY-MM-DD/partial_N.jsonl`; images and the per-run 
   }
 ]
 ```
+**Picture** 
+  in folder output/run_n/images/
