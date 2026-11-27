@@ -1,0 +1,2528 @@
+[
+  {
+    "run_id": 1,
+    "run_date": "2026-11-27",
+    "source": "https://www.taladrod.com/w40/isch/schc.aspx?fno:new",
+    "selection": "first 100 list by order (รถมาใหม่วันนี้)",
+    "count": 100,
+    "ads": [
+      {
+        "ad_id": "2935230",
+        "brand": "SUZUKI",
+        "model": "ERTIGA",
+        "year": 2019,
+        "price": 369000,
+        "mileage_km": 134000,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935230",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935230_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_1.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_2.jpg",
+            "method": "classic",
+            "quality_score": 8.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_3.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_4.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_5.jpg",
+            "method": "classic",
+            "quality_score": 8.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_6.jpg",
+            "method": "classic",
+            "quality_score": 7.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_7.jpg",
+            "method": "classic",
+            "quality_score": 7.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_8.jpg",
+            "method": "classic",
+            "quality_score": 7.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_9.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_10.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_11.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_12.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_13.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_13.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_14.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_14.jpg",
+            "method": "classic",
+            "quality_score": 8.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935230_15.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/77_15.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935229",
+        "brand": "TOYOTA",
+        "model": "VIOS",
+        "year": 2018,
+        "price": 259000,
+        "mileage_km": 70247,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935229",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935229_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_2.jpg",
+            "method": "classic",
+            "quality_score": 6.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_3.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_4.jpg",
+            "method": "classic",
+            "quality_score": 6.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_5.jpg",
+            "method": "classic",
+            "quality_score": 6.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_6.jpg",
+            "method": "classic",
+            "quality_score": 5.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_7.jpg",
+            "method": "classic",
+            "quality_score": 5.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_8.jpg",
+            "method": "classic",
+            "quality_score": 6.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_9.jpg",
+            "method": "classic",
+            "quality_score": 6.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935229_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/76_10.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935228",
+        "brand": "BMW",
+        "model": "SERIES 3",
+        "year": 2023,
+        "price": 829000,
+        "mileage_km": 181738,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935228",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935228_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_2.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_3.jpg",
+            "method": "classic",
+            "quality_score": 7.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_4.jpg",
+            "method": "classic",
+            "quality_score": 5.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_5.jpg",
+            "method": "classic",
+            "quality_score": 7.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_6.jpg",
+            "method": "classic",
+            "quality_score": 7.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_7.jpg",
+            "method": "classic",
+            "quality_score": 7.1
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_8.jpg",
+            "method": "classic",
+            "quality_score": 7.1
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_9.jpg",
+            "method": "classic",
+            "quality_score": 7.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_10.jpg",
+            "method": "classic",
+            "quality_score": 6.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_11.jpg",
+            "method": "classic",
+            "quality_score": 6.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935228_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/75_12.jpg",
+            "method": "classic",
+            "quality_score": 7.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935227",
+        "brand": "NISSAN",
+        "model": "NOTE",
+        "year": 2019,
+        "price": 219000,
+        "mileage_km": 74000,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935227",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935227_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_1.jpg",
+            "method": "classic",
+            "quality_score": 8.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_2.jpg",
+            "method": "classic",
+            "quality_score": 7.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_3.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_4.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_5.jpg",
+            "method": "classic",
+            "quality_score": 7.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_6.jpg",
+            "method": "classic",
+            "quality_score": 7.1
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_7.jpg",
+            "method": "classic",
+            "quality_score": 7.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_8.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_9.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_10.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_11.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_12.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_13.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_13.jpg",
+            "method": "classic",
+            "quality_score": 8.3
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935227_14.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/74_14.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935226",
+        "brand": "MG",
+        "model": "VS HEV",
+        "year": 2023,
+        "price": 369000,
+        "mileage_km": 139300,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935226",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935226_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_1.jpg",
+            "method": "classic",
+            "quality_score": 7.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_2.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_3.jpg",
+            "method": "classic",
+            "quality_score": 7.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_4.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_5.jpg",
+            "method": "classic",
+            "quality_score": 7.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_6.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_7.jpg",
+            "method": "classic",
+            "quality_score": 7.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_8.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_9.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_10.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_11.jpg",
+            "method": "classic",
+            "quality_score": 8.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_12.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_13.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_13.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_14.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_14.jpg",
+            "method": "classic",
+            "quality_score": 8.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935226_15.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/73_15.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935225",
+        "brand": "ORA",
+        "model": "GOOD CAT",
+        "year": 2025,
+        "price": 499000,
+        "mileage_km": 24087,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935225",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935225_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_1.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_2.jpg",
+            "method": "classic",
+            "quality_score": 5.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_3.jpg",
+            "method": "classic",
+            "quality_score": 6.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_4.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_5.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_6.jpg",
+            "method": "classic",
+            "quality_score": 7.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_7.jpg",
+            "method": "classic",
+            "quality_score": 7.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_8.jpg",
+            "method": "classic",
+            "quality_score": 8.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_9.jpg",
+            "method": "classic",
+            "quality_score": 8.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_10.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935225_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/72_11.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935220",
+        "brand": "HONDA",
+        "model": "CIVIC",
+        "year": 2009,
+        "price": 80000,
+        "mileage_km": 410000,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935220",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935220_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935220_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_2.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935220_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_3.jpg",
+            "method": "classic",
+            "quality_score": 8.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935220_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_4.jpg",
+            "method": "classic",
+            "quality_score": 7.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935220_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_5.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935220_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/26_6.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935192",
+        "brand": "FORD",
+        "model": "RANGER",
+        "year": 2025,
+        "price": 690000,
+        "mileage_km": 10500,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935192",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935192_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_2.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_3.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_4.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_5.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_6.jpg",
+            "method": "classic",
+            "quality_score": 7.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_7.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_8.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_1/images/2935192_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/90_9.jpg",
+            "method": "classic",
+            "quality_score": 6.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935147",
+        "brand": "BYD",
+        "model": "SEALION 7",
+        "year": 2025,
+        "price": 1100000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935147",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935147_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/89_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935224",
+        "brand": "BMW",
+        "model": "SERIES 3",
+        "year": 2020,
+        "price": 799000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935224",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935224_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/71_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935223",
+        "brand": "TOYOTA",
+        "model": "COROLLA",
+        "year": 2019,
+        "price": 429000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935223",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935223_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/70_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935222",
+        "brand": "HONDA",
+        "model": "CIVIC",
+        "year": 2017,
+        "price": 528000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935222",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935222_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/68_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935221",
+        "brand": "BENZ",
+        "model": "GLB-CLASS",
+        "year": 2020,
+        "price": 869000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935221",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935221_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/69_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935219",
+        "brand": "HONDA",
+        "model": "CITY",
+        "year": 2019,
+        "price": 319000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935219",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935219_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/67_1.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935218",
+        "brand": "BMW",
+        "model": "X1",
+        "year": 2023,
+        "price": 1645000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935218",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935218_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/66_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935217",
+        "brand": "HONDA",
+        "model": "CRV",
+        "year": 2024,
+        "price": 1020000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935217",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935217_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/65_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935216",
+        "brand": "TOYOTA",
+        "model": "COROLLA",
+        "year": 2016,
+        "price": 349000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935216",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935216_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/64_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935215",
+        "brand": "BENZ",
+        "model": "GLE-CLASS",
+        "year": 2023,
+        "price": 2740000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935215",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935215_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/63_1.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935214",
+        "brand": "HYUNDAI",
+        "model": "STARIA",
+        "year": 2022,
+        "price": 829000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935214",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935214_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/62_1.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935213",
+        "brand": "ZEEKR",
+        "model": "7X",
+        "year": 2026,
+        "price": 1550000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935213",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935213_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/61_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935212",
+        "brand": "ISUZU",
+        "model": "D-MAX 12-19",
+        "year": 2018,
+        "price": 529000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935212",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935212_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/60_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935211",
+        "brand": "BMW",
+        "model": "i8",
+        "year": 2019,
+        "price": 4490000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935211",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935211_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/59_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935210",
+        "brand": "NISSAN",
+        "model": "PULSAR",
+        "year": 2014,
+        "price": 289000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935210",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935210_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/58_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935209",
+        "brand": "TOYOTA",
+        "model": "HILUX REVO",
+        "year": 2025,
+        "price": 659000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935209",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935209_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/57_1.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935208",
+        "brand": "HYUNDAI",
+        "model": "H1",
+        "year": 2016,
+        "price": 599000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935208",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935208_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/56_1.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935207",
+        "brand": "ISUZU",
+        "model": "D-MAX 19-ปัจจุบัน",
+        "year": 2021,
+        "price": 419000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935207",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935207_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/55_1.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935206",
+        "brand": "MAZDA",
+        "model": "CX-3",
+        "year": 2017,
+        "price": 299000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935206",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935206_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/54_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935205",
+        "brand": "FORD",
+        "model": "EVEREST",
+        "year": 2021,
+        "price": 609000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935205",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935205_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/53_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935204",
+        "brand": "SUBARU",
+        "model": "XV",
+        "year": 2016,
+        "price": 249000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935204",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935204_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/52_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935203",
+        "brand": "BMW",
+        "model": "SERIES 3",
+        "year": 2014,
+        "price": 499000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935203",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935203_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/51_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935202",
+        "brand": "BMW",
+        "model": "SERIES 5",
+        "year": 2023,
+        "price": 1550000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935202",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935202_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/50_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935201",
+        "brand": "MAZDA",
+        "model": "MAZDA2",
+        "year": 2016,
+        "price": 175000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935201",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935201_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/48_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935200",
+        "brand": "SUZUKI",
+        "model": "SWIFT",
+        "year": 2016,
+        "price": 259000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935200",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935200_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/47_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935199",
+        "brand": "HONDA",
+        "model": "CRV",
+        "year": 2017,
+        "price": 499000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935199",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935199_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/46_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935198",
+        "brand": "MAZDA",
+        "model": "CX-3",
+        "year": 2017,
+        "price": 349000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935198",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935198_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/45_1.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935197",
+        "brand": "TOYOTA",
+        "model": "FORTUNER",
+        "year": 2023,
+        "price": 1059000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935197",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935197_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/43_1.jpg",
+            "method": "classic",
+            "quality_score": 9.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935196",
+        "brand": "FORD",
+        "model": "EVEREST",
+        "year": 2017,
+        "price": 399000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935196",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935196_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/42_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935195",
+        "brand": "MAZDA",
+        "model": "MAZDA2",
+        "year": 2014,
+        "price": 168000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935195",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935195_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/41_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935194",
+        "brand": "TOYOTA",
+        "model": "FORTUNER",
+        "year": 2020,
+        "price": 779000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935194",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935194_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/40_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935193",
+        "brand": "MAZDA",
+        "model": "MAZDA2",
+        "year": 2019,
+        "price": 279000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935193",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935193_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/39_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935191",
+        "brand": "BMW",
+        "model": "X3",
+        "year": 2015,
+        "price": 400000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935191",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935191_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/27_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935190",
+        "brand": "GWM",
+        "model": "300",
+        "year": 2023,
+        "price": 929000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935190",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935190_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/38_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935189",
+        "brand": "MITSUBISHI",
+        "model": "TRITON 05-18",
+        "year": 2009,
+        "price": 119000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935189",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935189_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/12_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935188",
+        "brand": "BMW",
+        "model": "SERIES 5",
+        "year": 2012,
+        "price": 419000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935188",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935188_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/37_1.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935187",
+        "brand": "TOYOTA",
+        "model": "CAMRY",
+        "year": 2013,
+        "price": 265000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935187",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935187_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/36_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935186",
+        "brand": "BMW",
+        "model": "SERIES 5",
+        "year": 2017,
+        "price": 790000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935186",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935186_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/21_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935185",
+        "brand": "BENZ",
+        "model": "C-CLASS",
+        "year": 1998,
+        "price": 79000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935185",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935185_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/28_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935184",
+        "brand": "MAZDA",
+        "model": "CX-8",
+        "year": 2023,
+        "price": 859000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935184",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935184_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/34_1.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          }
+        ]
+      },
+      {
+        "ad_id": "2935183",
+        "brand": "BENZ",
+        "model": "A-CLASS",
+        "year": 2014,
+        "price": 345000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935183",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935183_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/33_1.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935182",
+        "brand": "TOYOTA",
+        "model": "FORTUNER",
+        "year": 2018,
+        "price": 799000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935182",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935182_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/32_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935181",
+        "brand": "BMW",
+        "model": "X7",
+        "year": 2022,
+        "price": 1990000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935181",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935181_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/31_1.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935180",
+        "brand": "BENZ",
+        "model": "GLC-CLASS",
+        "year": 2024,
+        "price": 1899000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935180",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935180_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/30_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935179",
+        "brand": "ISUZU",
+        "model": "MU-X",
+        "year": 2023,
+        "price": 1070000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935179",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935179_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/29_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935178",
+        "brand": "FORD",
+        "model": "RANGER",
+        "year": 2026,
+        "price": 1290000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935178",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935178_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/25_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935177",
+        "brand": "TOYOTA",
+        "model": "FORTUNER",
+        "year": 2020,
+        "price": 739000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935177",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935177_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/24_1.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935176",
+        "brand": "HYUNDAI",
+        "model": "H1",
+        "year": 2017,
+        "price": 599000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935176",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935176_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/23_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935175",
+        "brand": "NISSAN",
+        "model": "SKYLINE",
+        "year": 2008,
+        "price": 889000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935175",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935175_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/22_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935174",
+        "brand": "PORSCHE",
+        "model": "CAYENNE",
+        "year": 2026,
+        "price": 4750000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935174",
+        "vehicle_type": "รถหรู",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935174_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/20_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935173",
+        "brand": "MITSUBISHI",
+        "model": "PAJERO",
+        "year": 2021,
+        "price": 739000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935173",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935173_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/19_1.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          }
+        ]
+      },
+      {
+        "ad_id": "2935172",
+        "brand": "NISSAN",
+        "model": "ELGRAND",
+        "year": 2026,
+        "price": 2390000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935172",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935172_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/18_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935171",
+        "brand": "TOYOTA",
+        "model": "CAMRY",
+        "year": 2023,
+        "price": 1100000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935171",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935171_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/17_1.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          }
+        ]
+      },
+      {
+        "ad_id": "2935170",
+        "brand": "HYUNDAI",
+        "model": "H1",
+        "year": 2017,
+        "price": 585000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935170",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935170_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/16_1.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935169",
+        "brand": "JAGUAR",
+        "model": "S-TYPE",
+        "year": 2001,
+        "price": 480000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935169",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935169_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/15_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935168",
+        "brand": "PORSCHE",
+        "model": "CAYMAN",
+        "year": 2025,
+        "price": 7090000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935168",
+        "vehicle_type": "รถสปอร์ต",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935168_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/14_1.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          }
+        ]
+      },
+      {
+        "ad_id": "2935167",
+        "brand": "MITSUBISHI",
+        "model": "PAJERO",
+        "year": 2025,
+        "price": 999000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935167",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935167_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/13_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935166",
+        "brand": "BENZ",
+        "model": "GLE-CLASS",
+        "year": 2016,
+        "price": 690000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935166",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935166_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/05_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935165",
+        "brand": "TOYOTA",
+        "model": "YARIS ATIV",
+        "year": 2019,
+        "price": 309000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935165",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935165_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/11_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935164",
+        "brand": "TOYOTA",
+        "model": "CAMRY",
+        "year": 2019,
+        "price": 499000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935164",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935164_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/10_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935163",
+        "brand": "LANDROVER",
+        "model": "DEFENDER",
+        "year": 2023,
+        "price": 3790000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935163",
+        "vehicle_type": "รถออฟโรด",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935163_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/09_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935162",
+        "brand": "TESLA",
+        "model": "MODEL Y",
+        "year": 2023,
+        "price": 1090000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935162",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935162_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/08_1.jpg",
+            "method": "classic",
+            "quality_score": 9.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935161",
+        "brand": "VOLVO",
+        "model": "XC90",
+        "year": 2023,
+        "price": 1490000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935161",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935161_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/07_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935160",
+        "brand": "MAZDA",
+        "model": "CX-30",
+        "year": 2022,
+        "price": 499000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935160",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935160_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/06_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935159",
+        "brand": "BMW",
+        "model": "X6",
+        "year": 2017,
+        "price": 759000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935159",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935159_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/04_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935158",
+        "brand": "VOLVO",
+        "model": "XC90",
+        "year": 2019,
+        "price": 699000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935158",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935158_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/03_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935157",
+        "brand": "TOYOTA",
+        "model": "ALPHARD",
+        "year": 2024,
+        "price": 2950000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935157",
+        "vehicle_type": "รถตู้",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935157_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/02_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935156",
+        "brand": "HAVAL",
+        "model": "JOLION",
+        "year": 2021,
+        "price": 429000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935156",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935156_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/01_1.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935155",
+        "brand": "ISUZU",
+        "model": "D-MAX 19-ปัจจุบัน",
+        "year": 2022,
+        "price": 579000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935155",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935155_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/00_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935154",
+        "brand": "MG",
+        "model": "HS",
+        "year": 2022,
+        "price": 389000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935154",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935154_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/99_1.jpg",
+            "method": "classic",
+            "quality_score": 7.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935153",
+        "brand": "MINI",
+        "model": "CLUBMAN",
+        "year": 2020,
+        "price": 1490000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935153",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935153_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/98_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935152",
+        "brand": "HONDA",
+        "model": "HRV",
+        "year": 2023,
+        "price": 679000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935152",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935152_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/97_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935151",
+        "brand": "ISUZU",
+        "model": "MU-X",
+        "year": 2021,
+        "price": 769000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935151",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935151_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/96_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935150",
+        "brand": "MG",
+        "model": "ZS",
+        "year": 2017,
+        "price": 199000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935150",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935150_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/95_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935149",
+        "brand": "ISUZU",
+        "model": "MU-X",
+        "year": 2021,
+        "price": 789000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935149",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935149_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/94_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935148",
+        "brand": "TOYOTA",
+        "model": "ALPHARD",
+        "year": 2020,
+        "price": 1390000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935148",
+        "vehicle_type": "รถตู้",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935148_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/93_1.jpg",
+            "method": "classic",
+            "quality_score": 9.9
+          }
+        ]
+      },
+      {
+        "ad_id": "2935146",
+        "brand": "MG",
+        "model": "HS",
+        "year": 2019,
+        "price": 380000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935146",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935146_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/91_1.jpg",
+            "method": "classic",
+            "quality_score": 8.0
+          }
+        ]
+      },
+      {
+        "ad_id": "2935145",
+        "brand": "NISSAN",
+        "model": "ALMERA",
+        "year": 2017,
+        "price": 199000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935145",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935145_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/92_1.jpg",
+            "method": "classic",
+            "quality_score": 7.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935144",
+        "brand": "AUDI",
+        "model": "TT",
+        "year": 2021,
+        "price": 1650000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935144",
+        "vehicle_type": "รถสปอร์ต",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935144_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/88_1.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          }
+        ]
+      },
+      {
+        "ad_id": "2935143",
+        "brand": "HONDA",
+        "model": "BRV",
+        "year": 2016,
+        "price": 299000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935143",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935143_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/87_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935142",
+        "brand": "TOYOTA",
+        "model": "VELLFIRE",
+        "year": 2020,
+        "price": 1190000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935142",
+        "vehicle_type": "รถตู้",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935142_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/86_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935141",
+        "brand": "FORD",
+        "model": "RANGER",
+        "year": 2023,
+        "price": 978000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935141",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935141_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/85_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      },
+      {
+        "ad_id": "2935140",
+        "brand": "BMW",
+        "model": "SERIES 3",
+        "year": 2023,
+        "price": 859000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935140",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935140_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/84_1.jpg",
+            "method": "classic",
+            "quality_score": 9.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935139",
+        "brand": "FORD",
+        "model": "RANGER",
+        "year": 2017,
+        "price": 399000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935139",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935139_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/83_1.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          }
+        ]
+      },
+      {
+        "ad_id": "2935138",
+        "brand": "ISUZU",
+        "model": "รถบรรทุก",
+        "year": 2023,
+        "price": 755000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935138",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935138_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/82_1.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935137",
+        "brand": "ISUZU",
+        "model": "D-MAX 12-19",
+        "year": 2018,
+        "price": 369000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935137",
+        "vehicle_type": "รถกระบะ",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935137_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/81_1.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935136",
+        "brand": "BENZ",
+        "model": "ML-CLASS",
+        "year": 2015,
+        "price": 519000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935136",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935136_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/80_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935135",
+        "brand": "BMW",
+        "model": "SERIES 3",
+        "year": 2021,
+        "price": 959000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935135",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935135_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/78_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935134",
+        "brand": "BMW",
+        "model": "X1",
+        "year": 2025,
+        "price": 1549000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935134",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935134_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/77_1.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          }
+        ]
+      },
+      {
+        "ad_id": "2935133",
+        "brand": "VOLVO",
+        "model": "XC40",
+        "year": 2021,
+        "price": 599000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935133",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935133_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/76_1.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          }
+        ]
+      },
+      {
+        "ad_id": "2935132",
+        "brand": "VOLVO",
+        "model": "S60",
+        "year": 2022,
+        "price": 680000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935132",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935132_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/74_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          }
+        ]
+      },
+      {
+        "ad_id": "2935131",
+        "brand": "ORA",
+        "model": "GOOD CAT",
+        "year": 2022,
+        "price": 450000,
+        "mileage_km": null,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935131",
+        "vehicle_type": null,
+        "images": [
+          {
+            "path": "2026-11-27/run_1/images/2935131_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/112/71_1.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "run_id": 2,
+    "run_date": "2026-11-27",
+    "source": "https://www.taladrod.com/w40/isch/schc.aspx?fno:new",
+    "selection": "first 100 list by order (รถมาใหม่วันนี้)",
+    "count": 2,
+    "ads": [
+      {
+        "ad_id": "2935232",
+        "brand": "TOYOTA",
+        "model": "ALPHARD",
+        "year": 2025,
+        "price": 2490000,
+        "mileage_km": 3000,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935232",
+        "vehicle_type": "รถตู้",
+        "images": [
+          {
+            "path": "2026-11-27/run_3/images/2935232_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_1.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_2.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_3.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_4.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_5.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_6.jpg",
+            "method": "classic",
+            "quality_score": 9.6
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_7.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_8.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_9.jpg",
+            "method": "classic",
+            "quality_score": 8.6
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_10.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_11.jpg",
+            "method": "classic",
+            "quality_score": 8.4
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_12.jpg",
+            "method": "classic",
+            "quality_score": 7.6
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_13.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_13.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_14.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_14.jpg",
+            "method": "classic",
+            "quality_score": 9.1
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935232_15.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/79_15.jpg",
+            "method": "classic",
+            "quality_score": 9.8
+          }
+        ]
+      },
+      {
+        "ad_id": "2935231",
+        "brand": "HONDA",
+        "model": "HRV",
+        "year": 2025,
+        "price": 749000,
+        "mileage_km": 40443,
+        "source_url": "https://www.taladrod.com/w40/iCar/CarDet.aspx?cid=2935231",
+        "vehicle_type": "รถอเนกประสงค์",
+        "images": [
+          {
+            "path": "2026-11-27/run_3/images/2935231_01.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_1.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_02.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_2.jpg",
+            "method": "classic",
+            "quality_score": 9.5
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_03.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_3.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_04.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_4.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_05.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_5.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_06.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_6.jpg",
+            "method": "classic",
+            "quality_score": 9.3
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_07.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_7.jpg",
+            "method": "classic",
+            "quality_score": 9.4
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_08.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_8.jpg",
+            "method": "classic",
+            "quality_score": 9.0
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_09.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_9.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_10.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_10.jpg",
+            "method": "classic",
+            "quality_score": 8.8
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_11.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_11.jpg",
+            "method": "classic",
+            "quality_score": 9.2
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_12.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_12.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_13.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_13.jpg",
+            "method": "classic",
+            "quality_score": 8.7
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_14.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_14.jpg",
+            "method": "classic",
+            "quality_score": 8.5
+          },
+          {
+            "path": "2026-11-27/run_3/images/2935231_15.jpg",
+            "source_url": "https://imgc2.taladrod.com/c/cidx/014/113/78_15.jpg",
+            "method": "classic",
+            "quality_score": 8.9
+          }
+        ]
+      }
+    ]
+  }
+]
