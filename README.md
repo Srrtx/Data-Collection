@@ -33,6 +33,10 @@ python -m src.pipeline_classic --limit 100 --delay 1.0 --run-id 2
 Run data is stored in `data/YYYY-MM-DD/partial_N.jsonl`; images and the per-run archive are stored in `output/YYYY-MM-DD/run_N/`. The root `output/ads.json` is a JSON array containing one record per run, with image paths relative to `output/`. It is rebuilt from the per-run archives, so resuming a run updates that run's record instead of duplicating it. Existing flat-layout data and images are left untouched. The pipeline skips IDs already present in any partial file for that date, so each run stores only newly fetched ads. Run collectors sequentially for a date.
 
 ## OUTPUT
+
+**Picture** 
+  in folder output/run_n/images/
+  
 ```json
 [
   {
@@ -72,5 +76,3 @@ Run data is stored in `data/YYYY-MM-DD/partial_N.jsonl`; images and the per-run 
   }
 ]
 ```
-**Picture** 
-  in folder output/run_n/images/
